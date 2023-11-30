@@ -1,0 +1,29 @@
+.container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 90vh;
+}
+/* 
+.h2{
+margin-bottom: 50px;
+} */
+
+.container .calendar{
+  margin-top: 60px;
+  height: 80%;
+  width: 90%;
+}
+
+.outer{
+  position: relative;
+}
+
+/* .modal{
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  background-color: grey;
+  z-index: 10000 !important;
+  border: 1px solid red;
+} */
